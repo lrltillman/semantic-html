@@ -8,8 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+/* removed div indicators from all classes pertaining to header */
 .header {
-    padding: 20px;
+    padding: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -53,7 +54,7 @@ p {
 
 /* below class can be changed into an id for an anchored image, but will not be penalized. do this with extra time */
 .hero {
-    height: 800px;
+    height: 750px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -198,5 +199,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 18px;
 }
