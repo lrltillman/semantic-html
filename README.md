@@ -1,8 +1,15 @@
 # Website Optimization for Horiseon
-Add: link to website
-Screenshot of website
-Description of website
-Description of changes made, and why (website is easier for browser to display with more direct code)
 
-## Test
-### Test
+## Refined code by:
+
+* Adding more semantic tags to create specifity for the browser, allowing for a smoother website
+* Adjusting the style sheet to keep the original aesthetic intact
+* Repaired a broken link in the header
+
+## The website should now run more smoothly for client function, thus making it more accessable for use.
+
+## Go to the website here
+
+## A screenshot of a portion of the website is below:
+
+![portfolio demo](./assets/images/website-demo.jpg)
